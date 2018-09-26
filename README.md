@@ -1,7 +1,7 @@
-PIJA: Pornographic images jacking algorithm
+Pornographic images hacking algorithm
 ===========================================
 
-Pija is a proof of concept about how malware can easily detect and steal homemade adult content from the victim's computer.
+Piha is a proof of concept about how malware can easily detect and steal homemade adult content from the victim's computer.
 
 This PoC only contains the detection bits of the concept, but can be further improved using different techniques such as biometrics and metadata analysis to find matches between suspicious pictures and victim's social network's photos.
 
